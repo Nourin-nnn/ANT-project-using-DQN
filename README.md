@@ -33,7 +33,7 @@ python run_dqn.py
 ```
 
 This will:
-- Train a DQN agent and a Q-learning agent for 30,000 episodes
+- Train a DQN agent and a Q-learning agent for n (10,000) episodes
 - Compare their performance on computation offloading tasks
 - Display plots showing:
   - Average delay 
